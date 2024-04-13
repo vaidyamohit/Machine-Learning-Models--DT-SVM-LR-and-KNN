@@ -1,4 +1,4 @@
-# Machine-Learning-Models-DT-SVM-LR-and-KNN
+# Supervised Machine-Learning-Models-DT-SVM-LR-and-KNN
 
 ## Project 2
 
